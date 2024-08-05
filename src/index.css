@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Love+Ya+Like+A+Sister&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+:root {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #161925;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+
+/* #root{
+  height: 100%;
+  width: 100%;
+} */
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 12px;
+  border: 1px solid transparent;
+  box-sizing: border-box;
+  padding: 1rem;
+  font-size: 1.5rem;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #CBF7ED;
+  color: #161925;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  min-width: 180px;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.main{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+
+}
+
+.intro{
+  display: flex;
+  flex-direction: column;
+  height: 75%;
+  background-image: url('/starryBg.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 1rem;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 2px solid #23395B;
+}
+
+.introButtons{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.rowButton{
+  font-weight: 500;
+  margin: 1rem;
+  padding: 1rem;
+}
+
+.textHeader{
+  text-align: center;
+}
+
+.gallery {
+  margin: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  padding: 2rem;
+  justify-content: space-around;
+}
+
+.rowDiv{
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+  width: 100vw;
+}
+
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid white;
+  width: 40vw;
+  justify-content: center;
+  border-radius: 0.75rem;
+  padding: 1rem;
+}
+
+.bridge{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+label{
+  margin-top: 1.5rem;
+}
+
+input{
+  width: 70%;
+  text-align: center;
+  min-height: 54px;
+  border-radius: 0.75rem;
+  border: 3px solid transparent;
+}
+
+.submitButton{
+  max-height: 54px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
