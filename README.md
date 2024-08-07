@@ -30,10 +30,21 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
+
+## Website Usage
 <img src='https://imgur.com/XFaJ7Wu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='https://imgur.com/XFaJ7Wu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+## Adding A Creator 
 
+<img src='https://imgur.com/XaFHcgs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/XaFHcgs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+## Updating & Deleting A Creator
+
+<img src='https://imgur.com/O2YIPa3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/O2YIPa3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
 <!-- Recommended tools:
