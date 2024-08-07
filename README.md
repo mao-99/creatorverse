@@ -33,19 +33,13 @@ Here's a walkthrough of implemented required features:
 
 ## Website Usage
 Link: https://imgur.com/XFaJ7Wu
-<img src='https://imgur.com/XFaJ7Wu' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/XFaJ7Wu.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Adding A Creator 
 Link: https://imgur.com/XaFHcgs
-<img src='https://imgur.com/XaFHcgs' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/XaFHcgs.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Updating A Creator
 Link: https://imgur.com/O2YIPa3
-<img src='https://imgur.com/O2YIPa3' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://imgur.com/O2YIPa3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Deleting A Creator
 Link: https://imgur.com/uaZjtnb
